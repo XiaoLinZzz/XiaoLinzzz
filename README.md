@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @XiaoLinzzz
+- 📖 I'm study in the University of Adelaide (year 3 student).
 - 👀 I’m interested in Computer Science / Data science. 
 - 🌱 I’m currently learning Computer Vision, Machine Learning, Data structure.
 - 💞️ I’m looking to collaborate on an internship.
-- 🎓 Hope to be a grear master / PHD student !  
+- 🎓 Hope to be a great master / PHD student !  
 - 📫 How to reach me mlj20020716@163.com
 
 <!---
