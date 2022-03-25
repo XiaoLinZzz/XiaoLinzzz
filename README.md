@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @XiaoLinzzz
 - 👀 I’m interested in Computer Science/Data science 
 - 🌱 I’m currently learning Computer Vision, Machine Learning, Data structure
-- - 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mlj20020716@163.com
 
 <!---
