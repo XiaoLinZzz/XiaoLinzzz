@@ -2,7 +2,6 @@
 - 👨‍🎓 I'm study in the University of Adelaid 🇦🇺 (third year student).
 - 👀 I’m interested in Computer Science / Computer Vision. 
 - 🌱 I’m currently learning Computer Vision, Machine Learning, Data structure.
-- 💞️ I’m looking to collaborate on an internship.
 - 🎓 Hope to be a great master / PHD student !  
 - 📫 How to reach me mlj20020716@163.com
 
