@@ -3,7 +3,6 @@
 - 👀 I’m interested in Computer Science / Computer Vision. 
 - 🌱 I’m currently learning Computer Vision, Machine Learning, Data structure.
 - 🎓 Hope to be a great master / PHD student !  
-- 📫 How to reach me mlj20020716@163.com
 
 <!---
 XiaoLinzzz/XiaoLinzzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
