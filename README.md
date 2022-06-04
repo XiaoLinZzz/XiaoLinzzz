@@ -1,4 +1,4 @@
-<h2 align='center'> <i>Hi, there! <img src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/wave.gif" width="30px"></h2> 
+<h2 align='center'> <i>Hi, there!</h2> 
 
   
 - 👊 Hello I am **XiaoLinzz**.
