@@ -4,7 +4,7 @@
 - 👊 Hello I am **XiaoLinzz**.
 - 👨‍🎓 I'm study in the **University of Adelaid** 🇦🇺 (third year student).
 - 👀 I’m interested in Computer Science / Computer Vision. 
-- 🌱 I’m currently learning Operating System, Introduction to Machine Learning, Database (NoSQL).
+- 🌱 I’m currently learning Operating System, Introduction to Machine Learning, Database.
 - 🎓 Hope to be a great master / PHD student !  
 
   
@@ -13,6 +13,7 @@
   ![Python](https://img.shields.io/static/v1?label=Python&message=3.8&color=007396&style=for-the-badge&logo=Python)
   ![HTML5](https://img.shields.io/static/v1?label=HTML5&message=HTML5&color=800080&style=for-the-badge&logo=HTML5)
   ![MySQL](https://img.shields.io/static/v1?label=MySQL&message=MySQL&color=9F2B68&style=for-the-badge&logo=MySQL)
+  ![NoSQL](https://img.shields.io/static/v1?label=NoSQL&message=NoSQL&color=9D6B68&style=for-the-badge&logo=NoSQL)
 
 
 ## :atom: Frameworks
