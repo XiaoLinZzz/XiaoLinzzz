@@ -6,7 +6,7 @@
 - 👀 I’m interested in Computer Science / Computer Vision. 
 - 🌱 I’m currently learning Operating System, Introduction to Machine Learning, Database.
 - 🎓 Hope to be a great master / PHD student !  
-- 📃 Check my CV: www.xiaolinzzz.com
+- 📃 Check my CV at www.xiaolinzzz.com
 
   
 ## :octocat: Language
