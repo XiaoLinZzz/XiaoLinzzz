@@ -37,6 +37,8 @@
 ## 😲 My contributed
 
 [//]: # (![starts]&#40;https://github.com/XiaoLinZzz/XiaoLinzzz/blob/b29d2a5256e8f3818e1ba5eef41222c1f719c484/github-contribution-grid-snake.svg&#41;)
+<img alt="Snake animation" src="https://github.com/Xiaolinzzz/Xiaolinzzz/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
+<img alt="Snake animation" src="https://github.com/Xiaolinzzz/Xiaolinzzz/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
 
 
 
