@@ -34,7 +34,7 @@
 ![VScode](https://img.shields.io/static/v1?label=VScode&message=v1.72&color=3374FF&style=for-the-badge&logo=Visual-Studio-Code)
 <!-- ![IntelliJ](https://img.shields.io/static/v1?label=IntelliJ&message=2022.1&style=for-the-badge&color=FF3933&logo=intellij-idea) -->
 
-## 😲 My contributed
+## 😲 My Contributions
 
 [//]: # (![starts]&#40;https://github.com/XiaoLinZzz/XiaoLinzzz/blob/b29d2a5256e8f3818e1ba5eef41222c1f719c484/github-contribution-grid-snake.svg&#41;)
 <img alt="Snake animation" src="https://github.com/Xiaolinzzz/Xiaolinzzz/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
