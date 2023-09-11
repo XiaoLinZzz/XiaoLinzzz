@@ -3,9 +3,9 @@
 
 - 👊 Hello I am **XiaoLinzz**.
 - 👨‍🎓 I'm studying for my master's degree at the **University of Melbourne**.
-- 👀 I’m interested in Machine Learning / Computer Vision. 
-- 🌱 I’m currently learning Mobile dev (Android Java) & Computer Vision.
-- 🎓 Hope to be a great master / PHD student !  
+- 👀 I’m interested in Frontend / Computer Vision. 
+- 🌱 I’m currently learning Mobile dev (React Native) & Computer Vision.
+- 🎓 Hope to get an offer !  
 - 📃 Check my personal website at www.xiaolinzzz.com
 
   
