@@ -5,7 +5,6 @@
 - 👨‍🎓 I'm studying for my master's degree at the **University of Melbourne**.
 - 👀 I’m interested in Frontend / Computer Vision. 
 - 🌱 I’m currently learning Mobile dev (React Native) & Computer Vision (Pytorch & TensorFlow).
-- 💼 I'm currently doing the Software Engineer Intern (Frontend) in [Skand.io](https://skand.io/).
 - 📃 Check my personal website at www.xiaolinzzz.com
 - 🎓 I updated my blog in [juejin](https://juejin.cn/user/4161024751310920). 
 
