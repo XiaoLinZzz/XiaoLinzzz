@@ -4,7 +4,7 @@
 - 👊 Hello I am **XiaoLinzz**.
 - 👨‍🎓 I'm studying for my master's degree at the **University of Melbourne**.
 - 👀 I’m interested in Frontend / Computer Vision. 
-- 🌱 I’m currently doing internship [@Microsoft](https://github.com/microsoft).
+- 🌱 I’m currently doing SWE internship [@Microsoft](https://github.com/microsoft).
 - 📃 Check my personal website at www.xiaolinzzz.com
 - 🎓 I updated my blog in [juejin](https://juejin.cn/user/4161024751310920). 
 
