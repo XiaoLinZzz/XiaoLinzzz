@@ -15,7 +15,8 @@
   ![HTML5](https://img.shields.io/static/v1?label=HTML5&message=HTML5&color=800080&style=for-the-badge&logo=HTML5)
   ![MySQL](https://img.shields.io/static/v1?label=MySQL&message=MySQL&color=9F2B68&style=for-the-badge&logo=MySQL)
   ![CSS](https://img.shields.io/static/v1?label=CSS&message=v2.1&color=0045FD&style=for-the-badge&logo=CSS) 
-  ![JavaScript](https://img.shields.io/static/v1?label=JS&message=ES6&color=FDF900&style=for-the-badge&logo=JavaScript) 
+  ![JavaScript](https://img.shields.io/static/v1?label=JS&message=ES6&color=FDF900&style=for-the-badge&logo=JavaScript)
+  ![TypeScript](https://img.shields.io/static/v1?label=TS&message=5.3.3&color=007acc&style=for-the-badge&logo=TypeScript) 
 
 
 ## :atom: Libraries || Frameworks
