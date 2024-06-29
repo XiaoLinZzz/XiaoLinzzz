@@ -3,6 +3,7 @@
 
 - 👊 Hello I am **XiaoLinzz**.
 - 👨‍🎓 I'm studying for my master's degree at the **University of Melbourne**.
+- 📖 I’m currently study software project, social computing and information visualisation.
 - 👀 I’m interested in Frontend / Computer Vision. 
 - 📃 Check my personal website at www.xiaolinzzz.com
 - 🎓 I updated my blog in [juejin](https://juejin.cn/user/4161024751310920).
