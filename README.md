@@ -1,7 +1,7 @@
 
 # About Me
 
-- 👊 Hello I am **XiaoLinzz**.
+- 👊 Hello I am **Lujie Ma**.
 - 👨‍🎓 I'm studying for my master's degree at the **University of Melbourne**.
 - 📖 I’m currently study software project, social computing and information visualisation.
 - 👀 I’m interested in Frontend / Computer Vision. 
