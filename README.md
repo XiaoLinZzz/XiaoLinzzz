@@ -27,6 +27,7 @@
   ![Keras](https://img.shields.io/static/v1?label=Keras&message=2.9.0&color=007396&style=for-the-badge&logo=Keras)
   ![Vue](https://img.shields.io/static/v1?label=Vue&message=Vue2.x&color=239120&style=for-the-badge&logo=Vue)
   ![React](https://img.shields.io/static/v1?label=React&message=v18.0&color=137480&style=for-the-badge&logo=React) 
+  ![Next.js](https://img.shields.io/static/v1?label=Next.js&message=v14&color=000000&style=for-the-badge&logo=Next.js)
   
 
 ## 👨‍💻 Tech  
@@ -36,7 +37,7 @@
 ![Github](https://img.shields.io/static/v1?label=GitHub&message=XiaoLinzzz&color=E991B6&style=for-the-badge&logo=github)
 ![Docker](https://img.shields.io/static/v1?label=Docker&message=🐳&color=4285F4&style=for-the-badge&logo=docker)
 ![VScode](https://img.shields.io/static/v1?label=VScode&message=v1.72&color=3374FF&style=for-the-badge&logo=Visual-Studio-Code)
-![Unity](https://img.shields.io/static/v1?label=Unity&message=2023.1&color=000000&style=for-the-badge&logo=Unity)
+![Unity](https://img.shields.io/static/v1?label=Unity&message=2022.3&color=000000&style=for-the-badge&logo=Unity)
 <!-- ![IntelliJ](https://img.shields.io/static/v1?label=IntelliJ&message=2022.1&style=for-the-badge&color=FF3933&logo=intellij-idea) -->
 
 ## 😲 My Contributions
