@@ -6,7 +6,7 @@
 - 👨‍💻 I'm current learning Next.js.
 - 📖 I’m currently study software project, social computing and information visualisation.
 - 👀 I’m interested in Frontend / Computer Vision / HCI. 
-- 📃 Check my personal website at www.xiaolinzzz.com
+- 📃 Check my personal website at www.xiaolinzzz.com (or the brand new one - https://xiaolinzzz.github.io/)
 - 🎓 I updated my blog in [juejin](https://juejin.cn/user/4161024751310920).
 
 <!--- - 🌱 I’m currently doing SWE internship [@Microsoft](https://github.com/microsoft). --->
