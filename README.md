@@ -2,9 +2,8 @@
 # About Me
 
 - 👊 Hello I am **Lujie Ma**.
-- 👨‍🎓 I'm studying for my master's degree at the **University of Melbourne**.
-- 👨‍💻 I'm current learning Next.js.
-- 📖 I’m currently study software project, social computing and information visualisation.
+- 💼 I currently work at [Trip.com](https://hk.trip.com/?locale=zh-hk)
+- 👨‍🎓 I graduate from the **University of Melbourne**.
 - 👀 I’m interested in Frontend devlopment. 
 - 📃 Check my personal website at www.xiaolinzzz.com.
 - 🎓 I updated my blog in [juejin](https://juejin.cn/user/4161024751310920).
